@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "apple-watch",
+    "_createdAt": "2026-06-11T17:53:11.369Z",
+    "title": "Apple Watch",
+    "description": "A watch that tells time",
+    "category": "Tech",
+    "image": "https://www.istore.com.gh/iframe/applewatch11/images/hero_small.png",
+    "slug": {
+      "current": "apple-watch"
+    },
+    "author": {
+      "_id": "github-274482427",
+      "name": "TheSyntaxSlayer",
+      "username": "TheSyntaxSlayer"
+    },
+    "pitch": "A watch that tells time",
+    "views": 0
+  },
+  {
+    "_id": "jsm-nextjs-startup-course",
+    "_createdAt": "2026-06-11T17:28:33.412Z",
+    "title": "JSM Next.JS Startup Course",
+    "description": "A course to inspire you to dive deep into the world of Next.JS",
+    "category": "Tech",
+    "image": "https://wallpaperaccess.com/full/10310112.png",
+    "slug": {
+      "current": "jsm-nextjs-startup-course"
+    },
+    "author": {
+      "_id": "github-280767564",
+      "name": "Stairway-Waystair",
+      "username": "Stairway-Waystair"
+    },
+    "pitch": "A course to inspire you to dive deep into the world of Next.JS",
+    "views": 0
+  }
+]
